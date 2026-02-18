@@ -1,0 +1,20 @@
+# WordPress junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local environment
+.env
+
+# Uploads
+uploads/
+wp-content/uploads/
+
+# Node/vendor
+node_modules/
+vendor/
+
+# OS files
+*.swp
